@@ -1,1 +1,1 @@
-# How-to-Think-Like-a-Computer-Scientist: Learning-with-Python3
+# How to Think Like a Computer Scientist: Learning with Python3
